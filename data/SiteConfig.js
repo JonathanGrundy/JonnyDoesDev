@@ -14,7 +14,7 @@ const config = {
 	dateFormat: "DD/MM/YYYY", // Date format for display.
 	userName: "Jonny Grundy", // Username to display in the author segment.
 	userEmail: "jonathan.grundy92@gmail.com", // Email used for RSS feed's author segment
-	userTwitter: "gatsbyjs", // Optionally renders "Follow Me" in the Bio segment.
+	userTwitter: "JonathanGrundy4", // Optionally renders "Follow Me" in the Bio segment.
 	userGitHub: "JonathanGrundy", // Optionally renders "Follow Me" in the Bio segment.
 	userLocation: "Preston, UK", // User location to display in the author segment.
 	userAvatar: "/images/photoofme.jpg", // User avatar to display in the author segment.

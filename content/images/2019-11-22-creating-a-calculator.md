@@ -1,5 +1,5 @@
 ---
-date: 2019-11-07
+date: 2019-11-22
 title: "Creating a Calculator with react"
 cover: "https://unsplash.it/400/300/?random?TheFallenTime"
 categories:

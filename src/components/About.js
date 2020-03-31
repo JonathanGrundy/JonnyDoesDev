@@ -14,7 +14,7 @@ This website has been created using Gatsby to document my development in web dev
 
 		
 
-		<img src="/images/photoofme.jpg" width="100" height="100" alt="Me" />
+		
 	</>
 );
 

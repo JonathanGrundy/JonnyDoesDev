@@ -4,11 +4,14 @@ const About = () => (
 	<>
 		<h1>About</h1>
 		<p>
-			I have created this page in line with my education in web development. It
-			is something that i can use to verify my knowledge in each topic or course
-			that i can cover. It is also something i will use to show case my
-			knowledge to any potential employers in the future. I hope you enjoy the
-			read.
+		A little about myself:
+
+I have been in retail for 10 years working from a part time shelf stacker to a manager of over 30 people, navigating throught 3 respectable UK companies.
+Once i heard about web development in August 2019 i tried out a couple of courses and was immediately hooked. That month i quit my position in retail and started to spend serious time 
+learning more about it. During that same month i found out that my wife fell pregnant and i knew that i needed to get a job to provide for our growing family. 
+Now that we have had our little baby boy i have managed to put aside all other work again and concentrate on my learning. 
+This website has been created using Gatsby to document my development in web development and something i can refer back to if i get stuck in the future. 
+
 		</p>
 
 		<img src="/images/photoofme.jpg" width="100" height="100" alt="Me" />

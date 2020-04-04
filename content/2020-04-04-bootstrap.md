@@ -1,6 +1,6 @@
 ---
-date: 2020-03-31
-title: "HTML"
+date: 2020-04-04
+title: "Bootstrap"
 cover: "https://unsplash.it/400/300/?random?TheFallenTime"
 categories:
   - Tech

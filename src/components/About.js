@@ -6,13 +6,33 @@ const About = () => (
 		
 		<p>A little about myself:</p>
 
-<p>I have been in retail for 10 years working from a part time shelf stacker to a manager of over 30 people, navigating throught 3 respectable UK companies.
-Once i heard about web development in August 2019 i tried out a couple of courses and was immediately hooked. That month i quit my position in retail and started to spend serious time 
-learning more about it. During that same month i found out that my wife fell pregnant and i knew that i needed to get a job to provide for our growing family. 
-Now that we have had our little baby boy i have managed to put aside all other work again and concentrate on my learning. 
-This website has been created using Gatsby to document my development in web development and something i can refer back to if i get stuck in the future. </p>
-<p> Every bit of work i complete through the course i will be uploading on to Github and will be available from the link below.</p>
+<p>A brief pen-picture about me:
 
+
+
+I previously worked in the retail sector and did so for 10 years. I started my retail life by working as a week-end part-time shelf-stacker. I then variously progressed via three large, nationally well-known companies, becoming a Store Manager supervising in excess of 40 staff. 
+
+
+
+I was made aware of web development in August 2019 and out of interest (fuelled by my specialism in one of my retail roles) I tried out a couple of courses to determine what it entailed – I was immediately hooked! 
+
+
+
+That month I made the decision to leave my position in retail, and started to spend serious time learning more about web-development and more about what I would need to become proficient. 
+
+
+
+During that same month, I found out that my wife was pregnant with our first child. I then knew that I needed to be able to get a job to provide for our growing family.
+
+Now that we have had our baby boy I have fortunately managed to put aside all other work, which allows me to concentrate fully on developing my skills and abilities in my new sphere of learning. 
+
+
+
+I have created this website by using “Gatsby”, which enables me to document my personal progress and my enhancement in web development practices. I can also use it as a reference point to look back upon when I need further clarification or reminders on how to deal with a particular topic or problem. 
+
+
+
+Throughout the course I will be uploading every piece of work that I complete. I will do this onto “Github”, and it will be readily available from the link below. </p>
 		
 
 		

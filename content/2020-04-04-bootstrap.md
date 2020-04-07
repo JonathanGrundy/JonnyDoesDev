@@ -21,6 +21,8 @@ There are many different components that you can add to your own website that ca
 
 You then create a CSS page and add your own design to it. 
 
+There is also Creative Tim and Animate.css which use already created code and we can use these also.
+
 I also learnt about Mailchimp, which is a website where you create a page where users can enter their email addresses and sign up to your site. 
 
 It was very simple to complete. It was a case of following their site set up and then linking it to your code via a link tag. 

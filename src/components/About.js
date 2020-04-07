@@ -4,7 +4,7 @@ const About = () => (
 	<>
 		<h1>About</h1>
 		
-		<p>A little about myself:</p>
+	
 
 <p>A brief pen-picture about me:
 
